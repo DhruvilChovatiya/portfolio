@@ -11,7 +11,7 @@ export default function Footer() {
 
         <div className="flex gap-3">
           <Link
-            href="https://github.com/SolankiManish005"
+            href="https://github.com/DhruvilChovatiya"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"
@@ -21,7 +21,7 @@ export default function Footer() {
           </Link>
 
           <Link
-            href="https://www.linkedin.com/in/manish-solanki-b787b1357/"
+            href="https://www.linkedin.com/in/dhruvil-chovatiya-45b565233/"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="LinkedIn"
@@ -30,7 +30,7 @@ export default function Footer() {
             <Linkedin size={20} />
           </Link>
 
-          <Link
+          {/* <Link
             href="https://www.instagram.com/_manish_solanki_512/"
             target="_blank"
             rel="noopener noreferrer"
@@ -38,7 +38,7 @@ export default function Footer() {
             className="p-2 border border-gray-300 dark:border-gray-700 rounded-full transition-colors bg-white dark:bg-black text-gray-800 dark:text-white hover:bg-pink-500 hover:text-white dark:hover:bg-pink-400 dark:hover:text-white"
           >
             <InstagramIcon size={20} />
-          </Link>
+          </Link> */}
         </div>
       </div>
     </footer>

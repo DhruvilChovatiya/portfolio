@@ -14,7 +14,7 @@ export default function Hero() {
           </h1>
 
           <h1 className="text-4xl sm:text-5xl md:text-7xl font-bold leading-tight text-indigo-500 animate-slideInLeft animate-delay-100">
-            Manish Solanki
+            Dhruvil Chovatiya
           </h1>
 
           <p className="mt-4 text-gray-600 dark:text-gray-300 text-base sm:text-lg font-bold animate-slideUp animate-delay-200">
@@ -22,7 +22,7 @@ export default function Hero() {
           </p>
 
           <p className="mt-2 text-gray-600 dark:text-gray-300 font-bold animate-slideUp animate-delay-300">
-            Full-stack Developer • MERN Stack • Open Source Contributor
+            Odoo Developer • MERN Stack • Open Source Contributor
           </p>
 
           <div className="mt-8 flex justify-center md:justify-start animate-fadeIn animate-delay-400">
@@ -39,7 +39,7 @@ export default function Hero() {
 
         <div className="flex justify-center md:justify-end animate-scaleIn animate-delay-200">
           <Image
-            src="/profile.jpg"
+            src="/profile.jpeg"
             alt="Profile"
             width={280}
             height={280}
